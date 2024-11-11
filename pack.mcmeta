@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 44
+        },
+        "description": "§6Sugar§2kane\n§8by alphabetlorefan2003"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": [20, 69],
+                "directory": "format_20"
+            }
+        ]
+    }
+}
